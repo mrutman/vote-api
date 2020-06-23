@@ -1,0 +1,6 @@
+*.so
+*.tar.gz
+
+*.test
+*.out
+*.swp
